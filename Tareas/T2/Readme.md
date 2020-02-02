@@ -7,12 +7,5 @@ de este sistema.
 
 **Operaciones:**
 ---------------
-* Frutas
-  * Manzanas
-  * Naranjas
-  * Uvas
-* Lácteos
-  * Leche
-  * Queso
-Crear_moneda(apuntador,nombre_moneda,cantidad_moneda)	
-	Efecto: Crea un nodo con la informacion que obtiene el metodo.
+*Crear_moneda(apuntador,nombre_moneda,cantidad_moneda)	
+	*Efecto: Crea un nodo con la informacion que obtiene el metodo.
