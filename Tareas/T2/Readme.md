@@ -6,5 +6,13 @@ a distintos dueños, los cuales tambien realizaran transacciones para el traspas
 de este sistema.
 
 **Operaciones:**
-__Crear_moneda(apuntador,nombre_moneda,cantidad_moneda)	
-	__Efecto: Crea un nodo con la informacion que obtiene el metodo.
+---------------
+* Frutas
+  * Manzanas
+  * Naranjas
+  * Uvas
+* Lácteos
+  * Leche
+  * Queso
+Crear_moneda(apuntador,nombre_moneda,cantidad_moneda)	
+	Efecto: Crea un nodo con la informacion que obtiene el metodo.
