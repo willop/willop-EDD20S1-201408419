@@ -1,4 +1,4 @@
-#TDA "Moneda" informal
+# TDA "Moneda" informal
 
 **Descripción:**
 La aplicacion conciste en la creacion de un sistema de creacion de monedas las cuales seran destinadas
