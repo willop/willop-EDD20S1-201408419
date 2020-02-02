@@ -1,8 +1,8 @@
 #TDA "Moneda" informal
 
-**Descripción:**
+**DescripciÃ³n:**
 La aplicacion conciste en la creacion de un sistema de creacion de monedas las cuales seran destinadas
-a distintos dueños, los cuales tambien realizaran transacciones para el traspaso de un dueño a otro a travéz
+a distintos dueÃ±os, los cuales tambien realizaran transacciones para el traspaso de un dueÃ±o a otro a travÃ©z
 de este sistema.
 
 **Operaciones:**
