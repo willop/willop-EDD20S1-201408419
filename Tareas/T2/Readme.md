@@ -7,5 +7,5 @@ de este sistema.
 
 **Operaciones:**
 ---------------
-*Crear_moneda(apuntador,nombre_moneda,cantidad_moneda)	
-	*Efecto: Crea un nodo con la informacion que obtiene el metodo.
+* Crear_moneda(apuntador,nombre_moneda,cantidad_moneda)	
+	* Efecto: Crea un nodo con la informacion que obtiene el metodo.
