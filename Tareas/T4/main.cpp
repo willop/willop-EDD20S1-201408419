@@ -56,9 +56,10 @@ int main(){
 			case 3:{
                 system("clear");
                 cout<<"Ingrese el caracter a buscar:   ";
-                int valorss;
+                string valorss;
                 cin>>valorss;
-                nodob.buscarelemento(listadoblep,valorss);
+                char letra=valorss[0];
+                nodob.buscarelemento(listadoblep,letra);
                 cin.get();
 				system("clear");
 				break;

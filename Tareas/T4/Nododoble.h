@@ -15,7 +15,7 @@ class Nododoble{
 
 		//metodos
 	public:
-		void insertar(Nododoble *&listadoble_,int dato_,string nombre_){
+		void insertar(Nododoble *&listadoble_,int dato_,char nombre_){
 		Nododoble *nuevonodo= new Nododoble();
 		nuevonodo->dato=dato_;
 		nuevonodo->nombre=nombre_;
@@ -97,7 +97,7 @@ nuevonodo->anterior=aux2;
                 Nododoble *nuevofin=nodoanterior->anterior;
                 cout<<"Ahora el ultimo nodo en la lista es: "<<nuevofin->dato<<"  "<<nuevofin->nombre;
                 nuevofin->siguiente=NULL;
-                free(nodoanterior);
+                delete nodoanterior;
 
                 cin.get();
 
@@ -109,7 +109,7 @@ nuevonodo->anterior=aux2;
             }//fin del metodo de eliminar
 
         //metodo para buscar un elemento a travez de un string
-        void buscarelemento(Nododoble *lista, int match){
+        void buscarelemento(Nododoble *lista, char match){
         Nododoble *nodoactual = new Nododoble();
         nodoactual=lista;
 
